@@ -17,3 +17,8 @@ I love **learning new technologies on my own**, experimenting with code, and tur
 🎯 **My goal:**  
 To become a **professional Full Stack Developer** and create applications that **help people and make work easier**.  
 
+Languages spoken 
+- Arabic
+- English
+
+
