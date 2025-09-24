@@ -10,7 +10,7 @@ I am a Self-taught developer** passionate about Learning and  creating **Applica
 I love **learning new technologies on my own**, experimenting with code, and turning ideas into **working projects**.  
 
 💡 **What I enjoy:**  
-- Solving challenging problems with **clean, efficient code**  
+- I do daily problem-solving , challenging problems with **clean, efficient code**  
 - Designing **user-friendly interfaces**  
 - Exploring **new frameworks and tools**  
 
