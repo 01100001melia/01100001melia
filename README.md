@@ -1,20 +1,25 @@
-“Another day, another chance to code something amazing!” 😊
+𝒞𝑜𝒹𝑒. 𝐿𝑒𝒶𝓇𝓃. 𝑅𝑒𝓅𝑒𝒶𝓉. 💻
 
-# Hi there 👋
-
-🌸 Welcome to my GitHub profile!  
+# 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞  🌸 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!  
 
 ---
 
-## 👩‍💻 About Me
-- 🌱 Currently learning: Advanced C++, C#, WPF, ASP.NET Core  
-- 💼 Working on: Desktop & Web Development projects  
-- 🎯 Goal: Become a professional Full Stack Developer & create apps that help engineers  
-- 🤍 Fun fact: I love coding, designing interfaces, and solving problems  
+## 👩‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+
+self-taught developer** passionate aboutLearning and  creating **Applications**.  
+I love **learning new technologies on my own**, experimenting with code, and turning ideas into **working projects**.  
+
+💡 **What I enjoy:**  
+- Solving challenging problems with **clean, efficient code**  
+- Designing **user-friendly interfaces**  
+- Exploring **new frameworks and tools**  
+
+🎯 **My goal:**  
+To become a **professional Full Stack Developer** and create applications that **help people and make work easier**.  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
 ### Microsoft Office
 - Word, Access, PowerPoint, Excel (Basic)  
@@ -53,16 +58,15 @@
 ---
 
 ## 📂 Projects
-- **[Movies App](#)** – WPF desktop app for movies & TV shows with interactive UI  
-- **[Paint Clone](#)** – Simple drawing app in C# with layers & effects  
-- **[Sticky Notes](#)** – Desktop productivity app with multiple notes windows  
+
 
 ---
+
+## Languages 
+- Arabic
+- English
 
 ## 🌐 Connect with Me 
-- [Email](mailto:your-email@example.com)  
+- [Email](amy010123@gmail.com)  
 
 ---
-
-### 💡 Quote
-> “Another day, another chance to code something amazing!” 😊
