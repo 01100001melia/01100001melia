@@ -6,7 +6,7 @@
 
 ## 👩‍💻 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
-I am a self-taught developer passionate about learning and creating applications.  
+I am a self-taught developer passionate about learning and building  applications.  
 I love **learning new technologies on my own**, experimenting with code, and turning ideas into **working projects**.  
 
 💡 **What I enjoy:**  
